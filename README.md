@@ -14,8 +14,3 @@ NumPy, Pandas, Matplotlib, Seaborn, Librosa, Sklearn, PyTorch/Tensorflow
 ### 3. Tools: 
 Jupyter Notebook/Google Colab, Kaggle
 
-## Link for Combined Resources:
-https://docs.google.com/document/d/1NFoEw6bL7DwRJFX6FWyRqBuBBNvV2STaVcuoFGjUjXA/edit
-
-## YouTube Playlist:
-https://www.youtube.com/playlist?list=PL_fkUfeFmd2vYQTvMOTYHXHeVFuahkQq0 
